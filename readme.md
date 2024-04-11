@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Luiz</h1>
-<h3 align="center"><b>A programming enthusiast</b></h3>
+<h3 align="center"><b>A programming enthusiast!</b></h3>
 
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/en/e/e9/CreateWithGarfieldTitleScreen.jpg"/>
 - 🔭 I’m currently studying at <b>Unifal-MG</b>
