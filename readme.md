@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/en/e/e9/CreateWithGarfieldTitleScreen.jpg"/>
 - 🔭 I’m currently studying at <b>Unifal-MG</b>
 
-- 🌱 I’m currently learning **C, Java, Prolog, Haskell and Python**
+- 🌱 Learning **C, Java, Prolog, Haskell and Python**
 
 - 📫 How to reach me **jluizdosreisneto@gmail.com**
 
