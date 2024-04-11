@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm José Luiz</h1>
-- 🔭 I’m currently studying at **Unifal-MG**
+<h3 align="center"><b>A programming enthusiast</b></h3>
+- 🔭 I’m currently studying at <b>Unifal-MG</b>
 
 - 🌱 I’m currently learning **C, Java, Prolog, Haskell and Python**
 
